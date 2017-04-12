@@ -1,5 +1,6 @@
 ---
 layout: post
+category: tech
 title: Server side pagination using Richfaces 4.x
 ---
 

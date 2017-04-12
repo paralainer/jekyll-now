@@ -1,5 +1,6 @@
 ---
 layout: post
+category: tech
 title: Attaching hudson build number to filename using maven
 ---
 
